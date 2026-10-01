@@ -1,0 +1,14 @@
+E:\Projetos\Organizador\bin\Debug\net8.0\Organizador.exe
+E:\Projetos\Organizador\bin\Debug\net8.0\Organizador.deps.json
+E:\Projetos\Organizador\bin\Debug\net8.0\Organizador.runtimeconfig.json
+E:\Projetos\Organizador\bin\Debug\net8.0\Organizador.dll
+E:\Projetos\Organizador\bin\Debug\net8.0\Organizador.pdb
+E:\Projetos\Organizador\obj\Debug\net8.0\Organizador.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\Organizador\obj\Debug\net8.0\Organizador.AssemblyInfoInputs.cache
+E:\Projetos\Organizador\obj\Debug\net8.0\Organizador.AssemblyInfo.cs
+E:\Projetos\Organizador\obj\Debug\net8.0\Organizador.csproj.CoreCompileInputs.cache
+E:\Projetos\Organizador\obj\Debug\net8.0\Organizador.dll
+E:\Projetos\Organizador\obj\Debug\net8.0\refint\Organizador.dll
+E:\Projetos\Organizador\obj\Debug\net8.0\Organizador.pdb
+E:\Projetos\Organizador\obj\Debug\net8.0\Organizador.genruntimeconfig.cache
+E:\Projetos\Organizador\obj\Debug\net8.0\ref\Organizador.dll
